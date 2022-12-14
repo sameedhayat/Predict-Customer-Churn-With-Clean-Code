@@ -12,4 +12,4 @@ Prediction
 Model Evaluation
 
 The sequence diagram below shows the sequence of churn_library.py function calls, and the Document Strings section further shows each function's input/output details.
-![Sequence Diagram](sequence_diagram.jpeg)
+![Sequence Diagram](images/sequence_diagram.jpeg)
