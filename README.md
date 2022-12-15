@@ -18,10 +18,10 @@ The sequence diagram below shows the sequence of churn_library.py function calls
 ## Files and data description
 This project follows the following directory structure
 
-/data: Input data file is available in the data directory as bank_data.csv
-/images: contains images for both exploratory data analysis plots and results plots
-/logs: contains the logs for the testing
-/models: contains pkl files for models
+* /data: Input data file is available in the data directory as bank_data.csv
+* /images: contains images for both exploratory data analysis plots and results plots
+* /logs: contains the logs for the testing
+* /models: contains pkl files for models
 
 ## Running the files 
 
